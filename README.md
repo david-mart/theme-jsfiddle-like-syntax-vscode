@@ -2,7 +2,7 @@
 
 A syntax like the one on JsFiddle with some tweak for VScode.
 
-https://atom.io/packages/jsfiddle-like-syntax
+https://marketplace.visualstudio.com/items?itemName=davidmart.theme-jsfiddle-like-syntax-vscode
 
 ## Languages Supported
   - Typescript
@@ -21,3 +21,4 @@ https://atom.io/packages/jsfiddle-like-syntax
 ### TODO
 1. Add full Javascript support 
 2. Add full Markdown support
+3. Add screenshots

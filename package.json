@@ -2,7 +2,7 @@
     "name": "theme-jsfiddle-like-syntax-vscode",
     "displayName": "JSFiddle Like Syntax Theme",
     "description": "VSCode theme based on the jsfiddle.net code editor color scheme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "davidmart",
     "engines": {
         "vscode": "^1.5.0"
