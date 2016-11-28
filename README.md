@@ -16,9 +16,24 @@ https://marketplace.visualstudio.com/items?itemName=davidmart.theme-jsfiddle-lik
 #### Font-Family
 - [*Inconsolata*](http://levien.com/type/myfonts/inconsolata.html)
 
+
 ---
 
+## Screenshots
+
+Typescript
+![Typescript](https://raw.githubusercontent.com/david-mart/theme-jsfiddle-like-syntax-vscode/master/screenshots/typescript.png)
+
+CSS
+![CSS](https://raw.githubusercontent.com/david-mart/theme-jsfiddle-like-syntax-vscode/master/screenshots/css.png)
+
+HTML
+![HTML](https://raw.githubusercontent.com/david-mart/theme-jsfiddle-like-syntax-vscode/master/screenshots/html.png)
+
+---
+
+
 ### TODO
-1. Add full Javascript support 
-2. Add full Markdown support
-3. Add screenshots
+- [ ] Add full Javascript support 
+- [ ] Add full Markdown support
+- [x] Add screenshots
